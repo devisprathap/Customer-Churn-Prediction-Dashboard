@@ -1,11 +1,10 @@
 streamlit
 pandas
 numpy
-matplotlib==3.7.5
+matplotlib
 scikit-learn
 joblib
 statsmodels
 prophet
 seaborn
 plotly
-
