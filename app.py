@@ -1,4 +1,5 @@
 import streamlit as st
+import matplotlib.pyplot as plt
 from dashboard_pages import overview,churn_analysis,customer_analysis,revenue_analysis,prediction,model_performance,insights,customer_segmentation,anomaly_detection
 from dashboard_pages import sales_trend
 from dashboard_pages import time_series_forecasting
